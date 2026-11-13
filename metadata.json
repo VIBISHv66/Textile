@@ -1,0 +1,6 @@
+{
+  "name": "Noolam - Luxury Handloom Silks & Sarees",
+  "description": "Exquisite handcrafted Kanjivaram, Banarasi, and temple silk sarees woven for the divine at Ravi Textiles, featuring interactive drape try-on, silk strand weaver, rail browser, and bridal archives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
